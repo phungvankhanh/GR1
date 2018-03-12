@@ -1,13 +1,16 @@
 # GR1
 Hello I'm Khanh. Đây là buổi test cho việc viết đoạn văn bằng file .md
-
-##nihongo
+## nihongo(#1)
+## tiếng việt(#2)
+<a name = "1" ></a>
+## nihongo
 blsadlasdlsaldlasdlasldassadsadsadsasds
 sadsadasdasdasdasdsfslkfjsldkjflkjsdsdfsdsaf
 safsdafsdafsdfksdksdkflksdlkflsdkflksdlfksdlkf
 sdafasldkfsadkfaskdfksadlf;ksdfa
 
-##tiếng việt
+<a name = "2"></a>
+## tiếng việt
 sadjsakldjksajdksajdksajkdjaskdjsa
 sadsakdjaskjkasjfksajlkfjsakjfsalkjfksajf
 sfasdlkfjksjdlkjsdklfjkjsdkfjklsdjkfjsakdljfklsjdfsa
