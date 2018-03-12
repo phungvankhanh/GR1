@@ -1,1 +1,17 @@
 # GR1
+Hello I'm Khanh. Đây là buổi test cho việc viết đoạn văn bằng file .md
+
+##nihongo
+blsadlasdlsaldlasdlasldassadsadsadsasds
+sadsadasdasdasdasdsfslkfjsldkjflkjsdsdfsdsaf
+safsdafsdafsdfksdksdkflksdlkflsdkflksdlfksdlkf
+sdafasldkfsadkfaskdfksadlf;ksdfa
+
+##tiếng việt
+sadjsakldjksajdksajdksajkdjaskdjsa
+sadsakdjaskjkasjfksajlkfjsakjfsalkjfksajf
+sfasdlkfjksjdlkjsdklfjkjsdkfjklsdjkfjsakdljfklsjdfsa
+dsfsdklfjkdsajfkdsjkjfkdsjfkjdskfjsdkjfksjfksdjfkjsdkfd
+sdfksdkajfkjsaklfjksdjflkjsdaklfjlksdfjkjsdkljfkdsjfklsdf
+dskfkasjfksdjfksdjfkjsdklfjkdslfjkdls
+
